@@ -8,7 +8,7 @@ WORKDIR /var/www/html/
 COPY . .
 RUN chown -R www-data:www-data /var/www/html/ && \
     chmod -R 777 /var/www/html/
-RUN mkdir ./files/ && chmod 777 ./files/
+RUN mkdir ./files/ && chmod 777 ./files/ && chmod 777 ./rar/
 
 # Install any necessary dependencies
 RUN apt-get update && \
