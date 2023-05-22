@@ -1,0 +1,17 @@
+{
+  "name": "Rapidleech",
+  "version": "1.0.0",
+  "description": "description of your project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repository.git"
+  },
+  "keywords": [
+    "your",
+    "keywords",
+    "here"
+  ],
+  "author": "your name",
+  "license": "MIT"
+}
