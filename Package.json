@@ -1,17 +1,17 @@
 {
-  "name": "Rapidleech",
+  "name": "Rapid",
   "version": "1.0.0",
   "description": "description of your project",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repository.git"
+    "url": "https://github.com/neutrino658/Rapidleech-NNK.git"
   },
   "keywords": [
     "your",
     "keywords",
     "here"
   ],
-  "author": "your name",
+  "author": "Neutrino656",
   "license": "MIT"
 }
